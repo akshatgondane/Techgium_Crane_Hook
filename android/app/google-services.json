@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323070672599",
+    "project_id": "crane-hook",
+    "storage_bucket": "crane-hook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323070672599:android:b457e9d2708bd2553d3a92",
+        "android_client_info": {
+          "package_name": "com.example.crane_hook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323070672599-3tmskcli78s11m8jp5j59247bvlc11g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH8RVxpwsaCsuxvzuIkXCc8VLzMhVEINs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323070672599-3tmskcli78s11m8jp5j59247bvlc11g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
